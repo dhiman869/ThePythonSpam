@@ -21,7 +21,7 @@ from telethon import events
 async def ping(e):
     if e.sender_id in SUDO_USERS:
         event = await e.reply("𝙋𝙤𝙣𝙜!", parse_mode=None, link_preview=None )
-        await event.edit(f"🤬 HACKER ✘SPAM 🤖!\n✘ #PYTHON 131\n 😈𝙍𝙀𝘼𝘿𝙔 𝙏𝙊 𝙃𝘼𝘾𝙆😎")
+        await event.edit(f"🤬 HACKER ✘SPAM 🤖!\n✘ #DHIMAN 131\n 😈𝙍𝙀𝘼𝘿𝙔 𝙏𝙊 𝙃𝘼𝘾𝙆😎")
         
         
 
