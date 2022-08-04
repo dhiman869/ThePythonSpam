@@ -21,7 +21,7 @@ from telethon import events
 async def ping(e):
     if e.sender_id in SUDO_USERS:
         event = await e.reply("𝙋𝙤𝙣𝙜!", parse_mode=None, link_preview=None )
-        await event.edit(f"🤬 HACKER ✘SPAM 🤖!\n✘ #PYTHON 131\n 😈𝙍𝙀𝘼𝘿𝙔 𝙏𝙊 𝙃𝘼𝘾𝙆😎")
+        await event.edit(f"🤬 HACKER ✘SPAM 🤖!\n✘ #𝐃𝐇𝐈𝐌𝐀𝐍 131\n 😈𝙍𝙀𝘼𝘿𝙔 𝙏𝙊 𝙃𝘼𝘾𝙆😎")
         
         
 
@@ -37,7 +37,7 @@ async def ping(e):
 @MK10.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
 async def restart(e):
     if e.sender_id in SUDO_USERS:
-        text = "𝐄𝐑𝐑𝟎𝐑 𝟏𝟑𝟏: 𝐒𝐄𝐑𝐕𝐄𝐑 𝐈𝐒 𝐑𝐄𝐒𝐓𝐀𝐑𝐓𝐈𝐍𝐆 🥵"
+        text = "𝗝𝗕𝗕 𝗧𝗞𝗞 𝗥𝗘𝗦𝗧𝗔𝗥𝗧 𝗛𝗢 𝗥𝗛𝗔 @DHIMAN_OFFICIALL 𝗝𝗢𝗜𝗡 𝗞𝗥𝗢 🥵"
         await e.reply(text)
         try:
             await MK1.disconnect()
