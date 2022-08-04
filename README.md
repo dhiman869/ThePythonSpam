@@ -4,7 +4,7 @@
 
 <p align="center"><a href="https://t.me/Dhiman_xx"><img src="https://telegra.ph/file/3ca50dc299a1c4152472c.jpg" width="400"></a></p>
 
-> ⭐️ Thanks to everyone for using THIS OP PythonX BOT, That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using THIS OP DHIMAN_X BOT, That is the greatest pleasure we have !
 
     
 
