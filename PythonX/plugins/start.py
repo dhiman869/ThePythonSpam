@@ -4,11 +4,11 @@ from .. import MK1, MK2, MK3, MK4, MK5, MK6, MK7, MK8, MK9, MK10, OWNER_ID
 from PythonX.plugins.help import *
 
 
-PythonIMG = "https://te.legra.ph/file/57ef20b6463f2596e9b21.jpg"
+PythonIMG = "https://telegra.ph/file/3ca50dc299a1c4152472c.jpg"
 
 Python_Button = [
         [
-        Button.url("✨ sᴜᴘᴘᴏʀᴛ ✨", "https://t.me/MKxHACKER")
+        Button.url("✨ sᴜᴘᴘᴏʀᴛ ✨", "https://t.me/DHIMAN_XX")
         ],
         [
         Button.inline("⚡ ᴄᴏᴍᴍᴀɴᴅs ⚡", data="help_back")
@@ -17,11 +17,11 @@ Python_Button = [
                
 PythonX_Button = [
         [
-        Button.url("✨ ᴄʜᴀɴɴᴇʟ ✨", "https://t.me/MKxHACKER"),
-        Button.url("✨ sᴜᴘᴘᴏʀᴛ ✨", "https://t.me/HACKERxSPAM")
+        Button.url("✨ ᴄʜᴀɴɴᴇʟ ✨", "https://t.me/Dhiman_xx"),
+        Button.url("✨ sᴜᴘᴘᴏʀᴛ ✨", "https://t.me/W_O_D_X")
         ],
         [
-        Button.url("🔥 ʀᴇᴘᴏ 🔥", "https://github.com/ERR0rMK/ThePythonSpam")
+        Button.url("🔥 ʀᴇᴘᴏ 🔥", "https://github.com/Dhiman869/ThePythonSpam")
         ]
         ]
         
